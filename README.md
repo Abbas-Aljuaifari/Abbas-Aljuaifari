@@ -1,6 +1,6 @@
 # Abbas-Aljuaifari
 # 💫 About Me:
-🔭 I’m currently working and full time studying python programming language.<br>👯 I’m looking for students to collaborate and study together.<br>🌱 luke stay with me :)<br>💬 Ask me anything let's do something.<br>⚡ Fun fact | I´m in love with programming.<br><br><br>
+🔭 I’m currently working and full time studying python programming language.<br>👯 I’m looking for students to collaborate and study together.<br>🌱 luck stay with me :)<br>💬 Ask me anything let's do something.<br>⚡ Fun fact | I´m in love with programming.<br><br><br>
 
 
 ## 🌐 Socials:
