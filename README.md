@@ -1,5 +1,5 @@
 # 💫 About Me:
-![](https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif =250x250)<br>🔭 I’m currently a full-time software developer student at Microverse.<br>👯 I’m looking for students to collaborate and study together.<br>🌱 luck stay with me :)<br>💬 Ask me anything let's do something and play with some code.<br>⚡ Fun fact | I´m in love with programming.
+![](https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif =250x250)<img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="48"><br>🔭 I’m currently a full-time software developer student at Microverse.<br>👯 I’m looking for students to collaborate and study together.<br>🌱 luck stay with me :)<br>💬 Ask me anything let's do something and play with some code.<br>⚡ Fun fact | I´m in love with programming.
 
 
 ## 🌐 Socials:
