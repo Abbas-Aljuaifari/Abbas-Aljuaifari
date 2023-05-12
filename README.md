@@ -21,6 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abbas-Aljuaifari&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
+<img src="https://media.giphy.com/media/40DRc0W00UbgQ/giphy.gif" hight="1000" width="1500">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Abbas-Aljuaifari&icon=2&color=2)](https://visitcount.itsvg.in)
 
