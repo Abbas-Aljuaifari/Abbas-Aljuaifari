@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" hight="1000" width="1500"><br>🔭 I’m currently a full-time software developer student at Microverse.<br>👯 I’m looking for students to collaborate and study together.<br>🌱 luck stay with me :)<br>💬 Ask me anything let's do something and play with some code.<br>⚡ Fun fact | I´m in love with programming.
+<img src="https://media.giphy.com/media/xTiTnlibr1W3eyjoxq/giphy.gif" hight="1000" width="1500"><br>🔭 I’m currently a full-time software developer student at Microverse.<br>👯 I’m looking for students to collaborate and study together.<br>🌱 luck stay with me :)<br>💬 Ask me anything let's do something and play with some code.<br>⚡ Fun fact | I´m in love with programming.
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abbas-Aljuaifari&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<img src="https://giphy.com/gifs/bigblueboo-loop-processing-sphere-5xtDarw13NgjZf4sCxG" hight="1000" width="1500">
+<img src="https://media.giphy.com/media/5xtDarw13NgjZf4sCxG/giphy.gif" hight="1000" width="1500">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abbas-Aljuaifari&icon=2&color=2)](https://visitcount.itsvg.in)
