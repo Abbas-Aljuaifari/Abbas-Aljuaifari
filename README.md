@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-Aljuaifari&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 🆒 Data Structures 
-<img src="https://media.giphy.com/media/3oEjHJDWnOmPTcd1YY/giphy.gif" hight="100" width="1500">
+<img src="https://media.giphy.com/media/uK1NNHB1Bkxfz8O1hI/giphy-downsized-large.gif" hight="100" width="1500">
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@FaresAJ2)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
