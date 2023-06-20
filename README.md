@@ -22,10 +22,6 @@
 
 ⚡ Fun fact: Programming has become my true passion, and I am committed to honing my skills and making a positive impact.
 
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/mnBXKMEb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abbas-aljuaifari-17a018261) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:20732607) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@FaresAJ2)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@faresaj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faresaj2" height="30" width="40" /></a>
